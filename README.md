@@ -8,4 +8,3 @@
 
 **Skład zespołu**: Martyna Kochalska, Polina Nesterova
 
-**Data wykonania**: DD-MM-RRRR
